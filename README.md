@@ -1,84 +1,83 @@
+# Weather Now ☁️
 
-# Weather App
+A modern, mobile-friendly weather app inspired by Google Weather. Provides real-time weather updates, hourly forecasts, and a 7-day outlook with a beautiful UI.
 
-This repository contains the completed internship task assigned to me. The project is a Weather Application developed using **React, Vite, Tailwind CSS, and Material UI (MUI)**. It fetches real-time weather data such as temperature, humidity, wind speed, and overall conditions using the **Meteo API**.
+[Live Demo](https://weather-now-blond-two.vercel.app/)
 
-The purpose of this project was to demonstrate the ability to build a fully functional, responsive, and modern web application using industry-standard tools and practices.
+## Screenshots
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-image-path/desktop-screenshot.png" alt="Desktop Screenshot" width="80%"/>
+  <br/>
+  <img src="https://user-images.githubusercontent.com/your-image-path/mobile-screenshot.png" alt="Mobile Screenshot" width="35%"/>
+</div>
 
-## Project Overview
+*(See screenshots above for a preview of the desktop and mobile UI.)*
 
-* Built a weather application from scratch as part of the internship assignment.
-* Integrated Meteo API to fetch and display live weather data.
-* Implemented a clean, responsive design using Tailwind CSS and Material UI.
-* Optimized the app with Vite for fast development and build processes.
+---
 
+## Features
 
-## Features Completed
+- **Google-like UI:** Clean and intuitive interface, closely inspired by Google Weather.
+- **Mobile Friendly:** Fully responsive design, works beautifully on all devices.
+- **Real-Time Weather:** Get current temperature, weather condition, wind speed, and precipitation.
+- **Hourly Forecast:** View weather updates by the hour, including temperature and precipitation probability.
+- **7-Day Forecast:** Detailed daily temperature highs/lows for a week.
+- **Wind & Precipitation Details:** Extra weather details for enthusiasts.
+- **Open-Meteo API Integration:** Reliable data powered by [Open-Meteo API](https://open-meteo.com/).
+- **Modern Stack:** Built using React, Tailwind CSS, and [shadcn/ui](https://ui.shadcn.com/).
+- **Easy Search:** Enter any city name for instant weather info.
+- **Sleek UI Design:** Soft gradients, glassmorphism, and accessible color schemes.
 
-* Search weather by city name.
-* Display current temperature, humidity, and wind speed.
-* Weather data updates dynamically from the API.
-* Mobile-first responsive layout.
-* Clean and professional user interface.
+---
 
+## Getting Started
 
-## Technology Stack
+### Installation
 
-* [React](https://reactjs.org/) with [Vite](https://vitejs.dev/) for fast development.
-* [Tailwind CSS](https://tailwindcss.com/) for utility-first styling.
-* [Material UI](https://mui.com/) for ready-to-use UI components.
-* [Meteo API](https://open-meteo.com/) for real-time weather data.
-
-
-
-## Setup Instructions
-
-1. Clone the repository:
-
-
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-
-
-2. Install dependencies:
-
+```bash
 npm install
+```
 
-3. Create an `.env` file in the root directory and add the API key (if required by Meteo API):
+### Development
 
-VITE_METEO_API_KEY=your_meteo_api_key_here
-
-4. Start the development server:
-
+```bash
 npm run dev
+```
 
+Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
-## API Notes
+---
 
-The project uses the **Meteo API** for fetching live weather details. Example endpoint:
+## Tech Stack
 
-https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current_weather=true
+- **Frontend:** React, Tailwind CSS, shadcn/ui
+- **API:** [Open-Meteo API](https://open-meteo.com/)
+- **Deployment:** [Vercel](https://vercel.com/)
 
+---
 
-* `latitude` → City latitude.
-* `longitude` → City longitude.
-* `current_weather` → true.
+## Author
 
+**Shivam Singh**  
+Email: [ss132k4@gmail.com](mailto:ss132k4@gmail.com)  
+GitHub: [SiNGH132k4](https://github.com/SiNGH132k4)
 
-## Task Completion Notes
+---
 
-* All required features were implemented successfully.
-* The application is tested locally and works as expected.
-* Documentation and README are included as part of the deliverables.
+## License
 
+MIT
 
-## Future Improvements
+---
 
-* Multi-day weather forecast integration.
-* Add dark/light mode toggle.
-* Option to save favorite cities.
-* Auto-detect user location using Geolocation API.
+## Notes
 
+- This project is not affiliated with Google.
+- Data may vary based on API availability and city input.
 
+---
 
+<div align="center">
+  <sub>Made with ❤️ by Shivam Singh | Powered by Open-Meteo API</sub>
+</div>
