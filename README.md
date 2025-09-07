@@ -6,17 +6,19 @@ A modern, mobile-friendly weather app inspired by Google Weather. Provides real-
 
 ## Screenshots
 
-## Screenshots
-
-<div align="center">
-  <img src="./assets/img1.jpeg" alt="Desktop Screenshot" width="70%"/>
-  <br/>
-  <img src="./assets/img2.jpeg" alt="Desktop Screenshot" width="70%"/>
-  <br/>
-  <img src="./assets/img3.jpeg" alt="Mobile Screenshot" width="250px"/>
-  <br/>
-  <img src="./assets/image.png" alt="Mobile Screenshot" width="250px"/>
-</div>
+<table>
+    <tr>
+      <!-- Left column: img1 (top), img2 (bottom) -->
+      <td align="center" style="vertical-align:middle;">
+        <img src="./assets/img1.jpeg" alt="Desktop Screenshot 1" width="220px" style="margin-bottom: 18px; border-radius: 10px; box-shadow: 0 4px 12px #0002;"/><br/>
+        <img src="./assets/img2.jpeg" alt="Desktop Screenshot 2" width="220px" style="border-radius: 10px; box-shadow: 0 4px 12px #0002;"/>
+      </td>
+      <!-- Right column: img3 -->
+      <td align="center" style="vertical-align:middle; padding-left: 32px;">
+        <img src="./assets/img3.jpeg" alt="Mobile Screenshot" width="140px" style="border-radius: 10px; box-shadow: 0 4px 12px #0002;"/>
+      </td>
+    </tr>
+  </table>
 
 *(See screenshots above for a preview of the desktop and mobile UI.)*
 
