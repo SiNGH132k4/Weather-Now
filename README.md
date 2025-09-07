@@ -65,12 +65,6 @@ GitHub: [SiNGH132k4](https://github.com/SiNGH132k4)
 
 ---
 
-## License
-
-MIT
-
----
-
 ## Notes
 
 - This project is not affiliated with Google.
