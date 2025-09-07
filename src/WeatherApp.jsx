@@ -124,8 +124,26 @@ const WeatherApp = () => {
         </main>
 
         <footer className="mt-8 text-center text-sm text-white/70 backdrop-blur-sm p-2 rounded-lg">
-          Open-Meteo API • Shivam Singh
-        </footer>
+  Open-Meteo API &bull; Shivam Singh
+  <span className="mx-2">|</span>
+  <a
+    href="https://github.com/SiNGH132k4"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="underline hover:text-white"
+  >
+    GitHub
+  </a>
+  <span className="mx-2">|</span>
+  <a
+    href="https://linkedin.com/in/singhShivam-dev"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="underline hover:text-white"
+  >
+    LinkedIn
+  </a>
+</footer>
       </div>
     </div>
   );
