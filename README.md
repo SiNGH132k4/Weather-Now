@@ -59,7 +59,7 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ## Tech Stack
 
-- **Frontend:** React, Tailwind CSS, shadcn/ui
+- **Frontend:** React, Tailwind CSS
 - **API:** [Open-Meteo API](https://open-meteo.com/)
 - **Deployment:** [Vercel](https://vercel.com/)
 
