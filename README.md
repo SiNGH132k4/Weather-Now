@@ -9,13 +9,13 @@ A modern, mobile-friendly weather app inspired by Google Weather. Provides real-
 ## Screenshots
 
 <div align="center">
-  <img src="./assets/img1.png" alt="Desktop Screenshot" width="80%"/>
+  <img src="./assets/img1.jpeg" alt="Desktop Screenshot" width="70%"/>
   <br/>
-  <img src="./assets/img2.png" alt="Desktop Screenshot" width="80%"/>
+  <img src="./assets/img2.jpeg" alt="Desktop Screenshot" width="70%"/>
   <br/>
-  <img src="./assets/img3.png" alt="Mobile Screenshot" width="35%"/>
+  <img src="./assets/img3.jpeg" alt="Mobile Screenshot" width="250px"/>
   <br/>
-  <img src="./assets/image.png" alt="Mobile Screenshot" width="35%"/>
+  <img src="./assets/image.png" alt="Mobile Screenshot" width="250px"/>
 </div>
 
 *(See screenshots above for a preview of the desktop and mobile UI.)*
