@@ -6,10 +6,16 @@ A modern, mobile-friendly weather app inspired by Google Weather. Provides real-
 
 ## Screenshots
 
+## Screenshots
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-path/desktop-screenshot.png" alt="Desktop Screenshot" width="80%"/>
+  <img src="./img1/desktop.png" alt="Desktop Screenshot" width="80%"/>
   <br/>
-  <img src="https://user-images.githubusercontent.com/your-image-path/mobile-screenshot.png" alt="Mobile Screenshot" width="35%"/>
+  <img src="./img2/mobile.png" alt="Desktop Screenshot" width="80%"/>
+  <br/>
+  <img src="./img3/mobile.png" alt="Mobile Screenshot" width="35%"/>
+  <br/>
+  <img src="./image/mobile.png" alt="Mobile Screenshot" width="35%"/>
 </div>
 
 *(See screenshots above for a preview of the desktop and mobile UI.)*
